@@ -1,0 +1,22 @@
+.serviceForm {
+    background-color: rgb(61, 79, 90);
+}
+
+.field {
+    color: rgb(219, 144, 24);
+    margin: 6px;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;   
+}
+
+
+
+
+#submitRequest {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: rgb(219, 144, 24);
+    color: lightgoldenrodyellow;
+    font-size: 1rem;
+}

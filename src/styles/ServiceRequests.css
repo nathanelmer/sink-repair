@@ -1,0 +1,15 @@
+.serviceRequests {
+    background-color: rgb(61, 79, 90);
+    color: rgb(219, 144, 24);
+    
+}
+
+.request {
+    padding-bottom: 5px;
+    color: rgb(228, 225, 222);
+}
+
+.requestDelete {
+    background-color: tomato;
+    
+}
